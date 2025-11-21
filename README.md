@@ -1,4 +1,4 @@
-## Post-Harvest Storage Management using Reinforcement Learning
+### Post-Harvest Storage Management using Reinforcement Learning
 Overview
 This project aims to handle post-harvest crop loss due to inadequate storage. IIt aims to mitigate the use of chemical preservatives to protect stored crops, which may harm health, reduce crop quality, and lower market value.
 
