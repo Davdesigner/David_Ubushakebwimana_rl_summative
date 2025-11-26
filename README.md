@@ -266,8 +266,8 @@ This project was developed for the RL Summative Assignment comparing value-based
 
 ---
 
-**Author**: David Ubushakebwimana
-**Algorithms**: DQN, PPO, A2C, REINFORCE
-**Environment**: Diabetes Treatment Simulation  
-**Course**: ML_Technique_II 
+- **Author**: David Ubushakebwimana
+- **Algorithms**: DQN, PPO, A2C, REINFORCE
+- **Environment**: Diabetes Treatment Simulation  
+- **Course**: ML_Technique_II 
 
