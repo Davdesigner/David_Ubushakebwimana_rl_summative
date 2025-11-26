@@ -2,7 +2,7 @@
 
 ## Important Links:
 
-1. Demo-Video:
+1. Demo-Video: [click here for the video](https://youtu.be/Qd515IN-sP4)
 2. Wriiten Report: [Click here for Documentation Report](https://github.com/M-Pascal/Pascal_Mugisha_rl_Summative/blob/main/Report_ML_Techniques_II%20%5BPascal%20M_Summative_Assign%5D.pdf)
 
 ## Diabetes Treatment RL Environment
