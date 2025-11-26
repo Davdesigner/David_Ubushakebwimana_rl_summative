@@ -84,8 +84,7 @@ Pascal_Mugisha_rl_Summative/
 
 ```bash
 # Clone the repository
-git clone https://github.com/M-Pascal/Pascal_Mugisha_rl_Summative.git
-cd Pascal_Mugisha_rl_Summative
+git clone https://github.com/Davdesigner/David_Ubushakebwimana_rl_summative.git 
 
 # Install dependencies
 pip install -r requirements.txt
